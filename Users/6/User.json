@@ -1,5 +1,10 @@
-[
+{
   "Id":6,
   "Username":"qa",
-  "Displayname":"qa"
-]
+  "Displayname":"qa",
+  "OriginalJoined":1088607240000,
+  "Joined":1141074400000,
+  "Description":"I'm the QA guy!",
+  "externalAppDisplayName":false,
+  "hasVerifiedBadge":false
+}
